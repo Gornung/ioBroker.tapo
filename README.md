@@ -13,6 +13,8 @@
 
 ## tapo adapter for ioBroker
 
+test
+
 Adapter for TP-Link Tapo
 
 based on
